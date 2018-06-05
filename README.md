@@ -1,1 +1,0 @@
-# Curl-example-usage-for-VMware-Cloud-on-AWS
